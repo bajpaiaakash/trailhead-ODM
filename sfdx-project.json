@@ -2,8 +2,7 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
-      
+      "default": true      
     }
   ],
   "name": "trailhead-ODM",
